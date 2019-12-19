@@ -9,6 +9,10 @@ Start designing your business idea for free: [canvas.noviggo.com](http://canvas.
 
 Canvas by Noviggo is not open-source, but we've opened this space for bug reports, feedback and feature ideas.
 
+### Support this project
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z01AD6S)
+
 ## Bugs and feature requests
 
 Are you looking for reporting a bug or requesting a new feature? Our [issue tracker](https://github.com/noviggo/canvas.nvg/issues) is our prefered channel to collect, review and respond to this requests.
